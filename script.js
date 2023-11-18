@@ -7,7 +7,7 @@ function incrementfun(){
 	// counterElement.innerText= countervalue;
 	// alert( counterElement.innerText)
 	// countervalue++;
-alert('Un-incremented value: ' + counterValue);
+alert( counterValue);
       
       // Increment the counter value
       counterValue++;
