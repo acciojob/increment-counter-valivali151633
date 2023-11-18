@@ -13,5 +13,5 @@ alert( counterValue);
       counterValue++;
 
       // Update the counter element's text
-      counterElement.textContent = counterValue;
+      counterElement.innerText = counterValue;
 }
